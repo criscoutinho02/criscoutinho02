@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=criscoutinho02&show_icons=true&theme=highcontrast&count_private=true)
+![Cristina's GitHub stats](https://github-readme-stats.vercel.app/api?username=criscoutinho02&show_icons=true&theme=material-palenight&count_private=true)
 
 <!--
 Here are some ideas to get you started:
